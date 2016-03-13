@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "fgh151\\modules\\geo-math\\": ""
+            "fgh151\\modules\\geo\\": ""
         }
     }
 }

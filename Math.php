@@ -1,6 +1,6 @@
 <?php
 
-namespace fgh151\modules\geoMath;
+namespace fgh151\modules\geo;
 
 
 class Math
