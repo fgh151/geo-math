@@ -1,5 +1,5 @@
 {
-    "name": "fgh151/geoMath",
+    "name": "fgh151/geo-math",
     "version": "0.0.1",
     "description": "Math function for goe",
     "type": "library",
@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "fgh151\\modules\\geoMath\\": ""
+            "fgh151\\modules\\geo-math\\": ""
         }
     }
 }
